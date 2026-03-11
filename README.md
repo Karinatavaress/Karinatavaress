@@ -54,7 +54,7 @@ Site institucional clássico com foco em tipografia imponente e layout elegante,
 <br/>
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="100" />
+  <img src="https://octodex.github.com/images/pinkocat.png" alt="Pink Octocat" width="100" />
 </div>
 
 *"Código é a ferramenta, mas a experiência do usuário é a missão."* 🚀
