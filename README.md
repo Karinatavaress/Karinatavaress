@@ -1,54 +1,56 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnEzYnFmMHJyOTVub2xsNDJrMTJoOGkxMHVka2doNHFjdTdyejhrNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hvpsszdCV8XXGyymxu/giphy.gif"  />
-</div>
+# Olá, eu sou a Karina Tavares! 
 
-###
+👩‍💻 **Front-end Developer** | 💡 **Gestão da TI**
 
-<br clear="both">
+Sou apaixonada por transformar linhas de código em experiências digitais fluidas, elegantes e funcionais. Com background em comunicação e social media, uno a visão estratégica de produto com a precisão técnica do desenvolvimento front-end.
 
-<h1 align="center">🦋 Karina Tavares</h1>
+---
 
-###
+### ✨ Um pouco sobre mim
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+- 🎓 Graduanda em **Gestão da Tecnologia da Informação** (4º período).
+- 📍 Moro no **Rio de Janeiro, Brasil**.
+- 🛠️ No meu dia a dia utilizo: **React, JavaScript (ES6+), HTML5, CSS3 e Tailwind**.
+- 🖌️ Planejo minhas interfaces no **Figma**, focando sempre em contraste e usabilidade.
+- 🌱 Atualmente construindo meu portfólio autoral e masterizando componentes reutilizáveis em React.
 
-###
+---
 
-<br clear="both">
+### 💼 Projetos em Destaque
 
-<h6 align="left">Sou estudante de Gestão de TI e apaixonada por tudo que envolve tecnologia.  <br>Atualmente estou me aventurando no mundo da Programação, criando projetos e aprendendo cada dia mais. 🚀  <br><br>Gosto de unir a parte prática do desenvolvimento com a visão de gestão, sempre buscando crescer e compartilhar conhecimento.  <br><br>Aqui no meu GitHub você vai encontrar meus estudos, desafios e projetos que fazem parte da minha jornada como futura profissional de TI. 💻✨</h6>
+#### 🪒 Barber Shop - Tradição & Estilo
+*HTML5 • CSS3 • Responsividade* Site institucional para uma barbearia com 52 anos de história. O foco foi criar uma interface elegante, com tipografia imponente e layout totalmente adaptável para dispositivos móveis.
 
-###
+#### 🛠️ Mão na Roda - Aluguel de Equipamentos
+*React • Vite • Deploy (Vercel/GitHub)* Landing page desenvolvida para um serviço de locação de ferramentas. Um projeto focado em conversão, organização visual e performance de carregamento.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/karinatavaresdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:karinatavaresribas01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+###  🍿 Netflix Clone
+*HTML5 • CSS3 • Design Responsivo* Estudo focado na replicação fiel da interface da Netflix, aplicando conceitos avançados de posicionamento, flexbox e estilização moderna para recriar a experiência visual de uma das maiores plataformas de streaming do mundo.
 
-###
+---
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
-###
-
+Linguagens e Frameworks
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 </div>
 
-###
+Ferramentas e Design
+<div align="left">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+---
+
+### 📫 Vamos trocar uma ideia?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karinatavaresdev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karinasousatavares01@gmail.com)
+
+*"Código é a ferramenta, mas a experiência do usuário é a missão."* 🚀
