@@ -1,7 +1,8 @@
 # Oi, eu sou a Karina Tavares! 👋
 
 👩‍💻 **Front-end Developer** | 💡 **Gestão de Tecnologia** 
-*Transformando ideias em interfaces elegantes e funcionais.*
+
+### *Transformando ideias em interfaces elegantes e funcionais.*
 
 ---
 
