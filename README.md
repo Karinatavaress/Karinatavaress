@@ -1,50 +1,47 @@
-# Olá, eu sou a Karina Tavares! 
+# Oi, eu sou a Karina Tavares! 👋
 
-👩‍💻 **Front-end Developer** | 💡 **Gestão da TI**
-
-Sou apaixonada por transformar linhas de código em experiências digitais fluidas, elegantes e funcionais. Com background em comunicação e social media, uno a visão estratégica de produto com a precisão técnica do desenvolvimento front-end.
+👩‍💻 **Front-end Developer** | 💡 **Gestão de Tecnologia** 
+*Transformando ideias em interfaces elegantes e funcionais.*
 
 ---
 
-### ✨ Um pouco sobre mim
+### ✨ Sobre mim
+
+Meu nome é **Karina Tavares**, sou uma desenvolvedora em transição de carreira vinda da área de comunicação. Atualmente, foco em unir a visão estratégica de produto com a precisão técnica do desenvolvimento web para criar experiências encantadoras.
 
 - 🎓 Graduanda em **Gestão da Tecnologia da Informação** (4º período).
 - 📍 Moro no **Rio de Janeiro, Brasil**.
-- 🛠️ No meu dia a dia utilizo: **React, JavaScript (ES6+), HTML5, CSS3 e Tailwind**.
-- 🖌️ Planejo minhas interfaces no **Figma**, focando sempre em contraste e usabilidade.
-- 🌱 Atualmente construindo meu portfólio autoral e masterizando componentes reutilizáveis em React.
+- 🛠️ Pratico com **HTML, CSS, JS, React e Tailwind**.
+- 🖌️ Me aprofundando em **UI/UX Design**, responsividade e acessibilidade.
+
+<br/>
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
 ---
 
-### 💼 Projetos em Destaque
+### 💼 Projetos em destaque
 
-#### 🪒 Barber Shop - Tradição & Estilo
-*HTML5 • CSS3 • Responsividade* Site institucional para uma barbearia com 52 anos de história. O foco foi criar uma interface elegante, com tipografia imponente e layout totalmente adaptável para dispositivos móveis.
+💖 **[Meu Portfólio](https://karinatavares-dev.vercel.app/)**
+*React • Tailwind CSS • Vite*
+Este portfólio é a materialização da minha jornada: um ambiente limpo, moderno e focado em apresentar meus projetos de forma profissional.
 
-#### 🛠️ Mão na Roda - Aluguel de Equipamentos
-*React • Vite • Deploy (Vercel/GitHub)* Landing page desenvolvida para um serviço de locação de ferramentas. Um projeto focado em conversão, organização visual e performance de carregamento.
+🛠️ **[Mão na Roda](https://sitemaonarodadealuguel.vercel.app/)**
+*React • Vite • Vercel*
+Landing page desenvolvida para um serviço de locação de ferramentas. Focada em conversão, organização visual e performance.
 
-###  🍿 Netflix Clone
-*HTML5 • CSS3 • Design Responsivo* Estudo focado na replicação fiel da interface da Netflix, aplicando conceitos avançados de posicionamento, flexbox e estilização moderna para recriar a experiência visual de uma das maiores plataformas de streaming do mundo.
-
----
-
-
-Linguagens e Frameworks
-<div align="left">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-</div>
-
-Ferramentas e Design
-<div align="left">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
+🪒 **Barber Shop - 52 Anos de Tradição**
+*HTML5 • CSS3 • Design Responsivo*
+Site institucional clássico com foco em tipografia imponente e layout elegante, honrando meio século de história.
 
 ---
 
@@ -52,5 +49,11 @@ Ferramentas e Design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karinatavaresdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karinasousatavares01@gmail.com)
+
+<br/>
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="100" />
+</div>
 
 *"Código é a ferramenta, mas a experiência do usuário é a missão."* 🚀
